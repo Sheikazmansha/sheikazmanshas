@@ -1,4 +1,4 @@
-# Welcome to [sheik azmansha's](https://github.com/sheik azmansha/) profile! <a href="https://github.com/sheik azmansha/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [sheik azmansha's](https://github.com/sheikazmanshas@gmail.com/) profile! <a href="https://github.com/sheik azmansha/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ### I'm a...   <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height=15% width=40% align="right">
 
@@ -7,9 +7,9 @@
 * Self-Taught Coder
 * Demanding Perfectionist
 
-🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/sheikazmanshas@gmail.com)<br>
-📬 How to reach me: [@gmail.com](mailto:sheikazmansha@gmail.com)<br>
-📝 [Resume](https://github.com/sheik azmansha/RESUME/blob/main/sheikazmanshas@gmail.com.pdf)<br>
+🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/hirthicksofficial)<br>
+📬 How to reach me: [hirthicksoffical@gmail.com](mailto:hirthicksoffcial@gmail.com)<br>
+📝 [Resume](https://github.com/Hirthick6/RESUME/blob/main/Hirthick%20official.pdf)<br>
 💪 This is where I write, code and solve problems.<br><br>
  As a Data Science Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
  things that change the world.
@@ -150,4 +150,3 @@ $ streamlit run main.py
 ## Acknowledgements
 If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com)
 The app uses the Streamlit(<https://github.com/streamlit/streamlit>) library for the user interface.**
- 
