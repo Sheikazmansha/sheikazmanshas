@@ -9,7 +9,7 @@
 
 🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/sheikazmansha)<br>
 📬 How to reach me: [sheikazmansha@gmail.com](mailto:sheikazmansha@gmail.com)<br>
-📝 [Resume](https://github.com/sheikazmanshas@gmail.com/RESUME/blob/main/sheikazmansha.pdf)<br>
+📝 [Resume](https://github.com/sheikazmanshas@gmail.com/RESUME/blob/main/sheikazmanshas@gmail.com.pdf)<br>
 💪 This is where I write, code and solve problems.<br><br>
  As a Data Science Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
  things that change the world.
